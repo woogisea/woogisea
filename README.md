@@ -10,6 +10,4 @@
     <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=Web3.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white" />
   </div>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woogisea&layout=compact)](https://github.com/woogisea/github-readme-stats)
 </div>
